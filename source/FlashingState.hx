@@ -20,7 +20,7 @@ class FlashingState extends MusicBeatState
 	{
 		super.create();
 
-		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
+		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLUE);
 		add(bg);
 
 		#if android
@@ -42,7 +42,7 @@ class FlashingState extends MusicBeatState
 			You've been warned!",
 			32);
 		#end
-		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
+		warnText.setFormat("VCR OSD Mono", 32, FlxColor.YELLOW, CENTER);
 		warnText.screenCenter(Y);
 		add(warnText);
                 #if android

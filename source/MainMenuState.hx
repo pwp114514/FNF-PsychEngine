@@ -99,6 +99,16 @@ class MainMenuState extends MusicBeatState
 		magenta.antialiasing = ClientPrefs.globalAntialiasing;
 		magenta.color = 0xFFfd719b;
 		add(magenta);
+
+		menusprite = new FlxSprite().loadGraphic(Paths.image(''));
+        	menusprite.updateHitbox();
+        	menusprite.screenCenter();
+        	menusprite.y -= 374;
+        	menusprite.x -= 640;
+        	menusprite.scrollFactor.set(0, 0);
+        	menusprite.scale.set(0.7, 0.7);
+        	menusprite.antialiasing = ClientPrefs.globalAntialiasing;
+        	add(menusprite);
 		
 		// magenta.scrollFactor.set();
 
@@ -227,14 +237,9 @@ class MainMenuState extends MusicBeatState
 						if (curSelected != spr.ID)
 						{
 							FlxTween.tween(FlxG.camera, {zoom: 5}, 0.8, {ease: FlxEase.expoIn});
-							FlxTween.tween(bg, {angle: 45}, 0.8, {ease: FlxEase.expoIn});
-							FlxTween.tween(bg, {alpha: 0}, 0.8, {ease: FlxEase.expoIn});
+							FlxTween.tween(magenta, {angle: 45}, 0.8, {ease: FlxEase.expoIn});
+							FlxTween.tween(magenta, {alpha: 0}, 0.8, {ease: FlxEase.expoIn});
 							FlxTween.tween(menusprite, {angle: 45}, 0.8, {ease: FlxEase.expoIn});
-							FlxTween.tween(frame, {angle: 45}, 0.8, {ease: FlxEase.expoIn});
-							FlxTween.tween(menusprite, {alpha: 0}, 0.8, {ease: FlxEase.expoIn});
-							FlxTween.tween(frame, {alpha: 0}, 0.8, {ease: FlxEase.expoIn});
-							FlxTween.tween(glitchFrame, {angle: 45}, 0.8, {ease: FlxEase.expoIn});
-							FlxTween.tween(glitchFrame, {alpha: 0}, 0.8, {ease: FlxEase.expoIn});
 							FlxTween.tween(spr, {alpha: 0}, 0.4, {
 							ease: FlxEase.quadOut,
 							onComplete: function(twn:FlxTween)

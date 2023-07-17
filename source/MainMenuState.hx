@@ -226,14 +226,23 @@ class MainMenuState extends MusicBeatState
 					{
 						if (curSelected != spr.ID)
 						{
+							FlxTween.tween(FlxG.camera, {zoom: 5}, 0.8, {ease: FlxEase.expoIn});
+							FlxTween.tween(bg, {angle: 45}, 0.8, {ease: FlxEase.expoIn});
+							FlxTween.tween(bg, {alpha: 0}, 0.8, {ease: FlxEase.expoIn});
+							FlxTween.tween(menusprite, {angle: 45}, 0.8, {ease: FlxEase.expoIn});
+							FlxTween.tween(frame, {angle: 45}, 0.8, {ease: FlxEase.expoIn});
+							FlxTween.tween(menusprite, {alpha: 0}, 0.8, {ease: FlxEase.expoIn});
+							FlxTween.tween(frame, {alpha: 0}, 0.8, {ease: FlxEase.expoIn});
+							FlxTween.tween(glitchFrame, {angle: 45}, 0.8, {ease: FlxEase.expoIn});
+							FlxTween.tween(glitchFrame, {alpha: 0}, 0.8, {ease: FlxEase.expoIn});
 							FlxTween.tween(spr, {alpha: 0}, 0.4, {
-								ease: FlxEase.quadOut,
-								onComplete: function(twn:FlxTween)
-								{
-									spr.kill();
-								}
-							});
+							ease: FlxEase.quadOut,
+							onComplete: function(twn:FlxTween)
+						{
+						spr.kill();
 						}
+					});
+				}
 						else
 						{
 							FlxFlicker.flicker(spr, 1, 0.06, false, false, function(flick:FlxFlicker)

@@ -248,11 +248,6 @@ class MainMenuState extends MusicBeatState
 					});
 				}
 			}
-			else if (virtualPad.buttonE.justPressed || FlxG.keys.anyJustPressed(debugKeys))
-			{
-				selectedSomethin = true;
-				MusicBeatState.switchState(new MasterEditorMenu());
-			}
 		}
 
 		super.update(elapsed);

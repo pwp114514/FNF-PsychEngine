@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="black cat back.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="0" y="9527" width="1321" height="1892" frameX="2" frameY="2" frameWidth="1317" frameHeight="1888"/>
+	<SubTexture name="idle0001" x="9234" y="4221" width="1320" height="1899" frameX="2" frameY="2" frameWidth="1316" frameHeight="1895"/>
+	<SubTexture name="idle0002" x="10560" y="0" width="1310" height="1909" frameX="2" frameY="2" frameWidth="1306" frameHeight="1905"/>
+	<SubTexture name="idle0003" x="2759" y="7352" width="1400" height="1927" frameX="2" frameY="2" frameWidth="1396" frameHeight="1923"/>
+	<SubTexture name="idle0004" x="9234" y="2289" width="1321" height="1932" frameX="2" frameY="2" frameWidth="1317" frameHeight="1928"/>
+	<SubTexture name="idle0005" x="10560" y="0" width="1310" height="1909" frameX="2" frameY="2" frameWidth="1306" frameHeight="1905"/>
+	<SubTexture name="idle0006" x="9234" y="4221" width="1320" height="1899" frameX="2" frameY="2" frameWidth="1316" frameHeight="1895"/>
+	<SubTexture name="idle0007" x="0" y="9527" width="1321" height="1892" frameX="2" frameY="2" frameWidth="1317" frameHeight="1888"/>
+	<SubTexture name="right0000" x="3515" y="5208" width="1877" height="1744" frameX="2" frameY="2" frameWidth="1873" frameHeight="1740"/>
+	<SubTexture name="right0001" x="7461" y="0" width="1773" height="1834" frameX="2" frameY="2" frameWidth="1769" frameHeight="1830"/>
+	<SubTexture name="right miss0000" x="1849" y="3300" width="1876" height="1791" frameX="2" frameY="2" frameWidth="1872" frameHeight="1787"/>
+	<SubTexture name="right miss0001" x="3725" y="3300" width="1991" height="1663" frameX="2" frameY="2" frameWidth="1987" frameHeight="1659"/>
+	<SubTexture name="right miss0002" x="1638" y="5208" width="1877" height="1744" frameX="2" frameY="2" frameWidth="1873" frameHeight="1740"/>
+	<SubTexture name="up0000" x="0" y="7352" width="1369" height="2175" frameX="2" frameY="2" frameWidth="1365" frameHeight="2171"/>
+	<SubTexture name="up0001" x="7461" y="4445" width="1326" height="2289" frameX="2" frameY="2" frameWidth="1322" frameHeight="2285"/>
+	<SubTexture name="up miss0000" x="1369" y="7352" width="1390" height="2139" frameX="2" frameY="2" frameWidth="1386" frameHeight="2135"/>
+	<SubTexture name="up miss0001" x="7461" y="1834" width="1181" height="2611" frameX="2" frameY="2" frameWidth="1177" frameHeight="2607"/>
+	<SubTexture name="up miss0002" x="9234" y="0" width="1326" height="2289" frameX="2" frameY="2" frameWidth="1322" frameHeight="2285"/>
+	<SubTexture name="left0000" x="0" y="0" width="2506" height="1702" frameX="2" frameY="2" frameWidth="2502" frameHeight="1698"/>
+	<SubTexture name="left0001" x="0" y="0" width="2506" height="1702" frameX="2" frameY="2" frameWidth="2502" frameHeight="1698"/>
+	<SubTexture name="left miss0000" x="5012" y="0" width="2449" height="1717" frameX="2" frameY="2" frameWidth="2445" frameHeight="1713"/>
+	<SubTexture name="left miss0001" x="0" y="1702" width="2653" height="1598" frameX="2" frameY="2" frameWidth="2649" frameHeight="1594"/>
+	<SubTexture name="left miss0002" x="2506" y="0" width="2506" height="1702" frameX="2" frameY="2" frameWidth="2502" frameHeight="1698"/>
+	<SubTexture name="down0000" x="5392" y="5208" width="1511" height="1720" frameX="2" frameY="2" frameWidth="1507" frameHeight="1716"/>
+	<SubTexture name="down0001" x="5716" y="3300" width="1570" height="1654" frameX="2" frameY="2" frameWidth="1566" frameHeight="1650"/>
+	<SubTexture name="down miss0000" x="4159" y="7352" width="1450" height="1773" frameX="2" frameY="2" frameWidth="1446" frameHeight="1769"/>
+	<SubTexture name="down miss0001" x="0" y="3300" width="1849" height="1908" frameX="2" frameY="2" frameWidth="1845" frameHeight="1904"/>
+	<SubTexture name="down miss0002" x="0" y="5208" width="1638" height="2144" frameX="2" frameY="2" frameWidth="1634" frameHeight="2140"/>
+</TextureAtlas>

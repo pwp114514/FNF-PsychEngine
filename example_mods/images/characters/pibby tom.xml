@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pibby tom.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pibby tom down0000" x="0" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0001" x="0" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0002" x="0" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0003" x="0" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0004" x="1274" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0005" x="1274" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0006" x="2548" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0007" x="2548" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0008" x="0" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0009" x="0" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0010" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0011" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0012" x="0" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0013" x="0" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0014" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0015" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0016" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0017" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0018" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0019" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom down0020" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0000" x="5096" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0001" x="5096" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0002" x="6370" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0003" x="6370" y="0" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0004" x="0" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0005" x="0" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0006" x="1274" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0007" x="1274" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0008" x="2548" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0009" x="2548" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0010" x="3822" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0011" x="3822" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0012" x="5096" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0013" x="5096" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0014" x="6370" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0015" x="6370" y="720" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0016" x="0" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0017" x="0" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0018" x="1274" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0019" x="1274" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0020" x="2548" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0021" x="2548" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0022" x="2548" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0023" x="2548" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0024" x="2548" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0025" x="2548" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom idle0026" x="2548" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0000" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0001" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0002" x="5096" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0003" x="5096" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0004" x="6370" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0005" x="6370" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0006" x="0" y="2160" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0007" x="0" y="2160" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0008" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0009" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0010" x="0" y="2160" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0011" x="0" y="2160" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0012" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0013" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0014" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0015" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0016" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0017" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom left0018" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="pibby tom right0000" x="1274" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0001" x="1274" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0002" x="2548" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0003" x="2548" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0004" x="3822" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0005" x="3822" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0006" x="5096" y="2160" width="1274" height="720" frameX="-1" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0007" x="5096" y="2160" width="1274" height="720" frameX="-1" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0008" x="3822" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0009" x="3822" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0010" x="6370" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0011" x="6370" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0012" x="3822" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0013" x="3822" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0014" x="3822" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0015" x="3822" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0016" x="3822" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0017" x="3822" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom right0018" x="3822" y="2160" width="1274" height="720" frameX="0" frameY="0" frameWidth="1275" frameHeight="720"/>
+	<SubTexture name="pibby tom up0000" x="0" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0001" x="0" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0002" x="1274" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0003" x="1274" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0004" x="2548" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0005" x="2548" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0006" x="3822" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0007" x="2548" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0008" x="2548" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0009" x="3822" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0010" x="3822" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0011" x="5096" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0012" x="5096" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0013" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0014" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0015" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0016" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0017" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0018" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pibby tom up0019" x="6370" y="2880" width="1274" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				62,
+				-187
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "mucho idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				66,
+				-189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mucho up"
+		},
+		{
+			"offsets": [
+				72,
+				-184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mucho right"
+		},
+		{
+			"offsets": [
+				68,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mucho left"
+		},
+		{
+			"offsets": [
+				62,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mucho down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mucho mouse",
+	"position": [
+		-180,
+		-70
+	],
+	"healthicon": "mucho-mouse",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		150,
+		51
+	],
+	"camera_position": [
+		-180,
+		-40
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1.7
+}

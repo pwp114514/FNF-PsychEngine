@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "MEME BG",
+		"player1": "bf",
+		"player2": "MEME BOI",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"2"
+					]
+				]
+			],
+			[
+				1714.28571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"2"
+					]
+				]
+			],
+			[
+				3428.57142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"2"
+					]
+				]
+			],
+			[
+				5142.85714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"2"
+					]
+				]
+			],
+			[
+				6857.14285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.035",
+						"2"
+					]
+				]
+			],
+			[
+				8571.42857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.04",
+						"2"
+					]
+				]
+			],
+			[
+				58285.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"1"
+					]
+				]
+			],
+			[
+				58285.7142857143,
+				[
+					[
+						"Image Flash",
+						"sus",
+						"0.5"
+					]
+				]
+			],
+			[
+				61714.2857142858,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"1"
+					],
+					[
+						"Image Flash",
+						"sus",
+						"0.5"
+					]
+				]
+			],
+			[
+				65142.8571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"1"
+					],
+					[
+						"Image Flash",
+						"sus",
+						"0.5"
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"1"
+					]
+				]
+			],
+			[
+				68571.4285714286,
+				[
+					[
+						"Image Flash",
+						"sus",
+						"0.5"
+					]
+				]
+			],
+			[
+				99428.5714285714,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "meme-mania"
+	}
+}

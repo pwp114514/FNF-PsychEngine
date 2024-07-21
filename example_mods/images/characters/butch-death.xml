@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="butch-death.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confirm0000" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="confirm0001" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="confirm0002" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="confirm0003" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="confirm0004" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="confirm0005" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="confirm0006" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="confirm0007" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="confirm0008" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="confirm0009" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="confirm0010" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="confirm0011" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0000" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0001" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0002" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0003" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0004" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0005" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0006" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0007" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0008" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0009" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0010" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="loop0011" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="start0000" x="0" y="0" width="1218" height="720"/>
+	<SubTexture name="start0001" x="0" y="0" width="1218" height="720"/>
+	<SubTexture name="start0002" x="1218" y="0" width="474" height="720" frameX="0" frameY="0" frameWidth="1218" frameHeight="720"/>
+	<SubTexture name="start0003" x="1218" y="0" width="474" height="720" frameX="0" frameY="0" frameWidth="1218" frameHeight="720"/>
+	<SubTexture name="start0004" x="1692" y="0" width="1218" height="720"/>
+	<SubTexture name="start0005" x="1692" y="0" width="1218" height="720"/>
+	<SubTexture name="start0006" x="0" y="720" width="1218" height="720"/>
+	<SubTexture name="start0007" x="0" y="720" width="1218" height="720"/>
+	<SubTexture name="start0008" x="1218" y="720" width="1218" height="720"/>
+	<SubTexture name="start0009" x="1218" y="720" width="1218" height="720"/>
+	<SubTexture name="start0010" x="2436" y="720" width="1218" height="720"/>
+	<SubTexture name="start0011" x="2436" y="720" width="1218" height="720"/>
+	<SubTexture name="start0012" x="0" y="1440" width="1218" height="720"/>
+	<SubTexture name="start0013" x="0" y="1440" width="1218" height="720"/>
+	<SubTexture name="start0014" x="1218" y="1440" width="1218" height="720"/>
+	<SubTexture name="start0015" x="1218" y="1440" width="1218" height="720"/>
+	<SubTexture name="start0016" x="2436" y="1440" width="1218" height="720"/>
+	<SubTexture name="start0017" x="2436" y="1440" width="1218" height="720"/>
+	<SubTexture name="start0018" x="0" y="2160" width="1218" height="720"/>
+	<SubTexture name="start0019" x="0" y="2160" width="1218" height="720"/>
+	<SubTexture name="start0020" x="1218" y="2160" width="1218" height="720"/>
+	<SubTexture name="start0021" x="1218" y="2160" width="1218" height="720"/>
+	<SubTexture name="start0022" x="2436" y="2160" width="1218" height="720"/>
+	<SubTexture name="start0023" x="2436" y="2160" width="1218" height="720"/>
+	<SubTexture name="start0024" x="0" y="2880" width="1218" height="720"/>
+	<SubTexture name="start0025" x="0" y="2880" width="1218" height="720"/>
+	<SubTexture name="start0026" x="1218" y="2880" width="1218" height="720"/>
+	<SubTexture name="start0027" x="1218" y="2880" width="1218" height="720"/>
+	<SubTexture name="start0028" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="start0029" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="start0030" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="start0031" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="start0032" x="2436" y="2880" width="1218" height="720"/>
+	<SubTexture name="start0033" x="2436" y="2880" width="1218" height="720"/>
+</TextureAtlas>

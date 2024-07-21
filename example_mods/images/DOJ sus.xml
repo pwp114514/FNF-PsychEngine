@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DOJ sus.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOJ0000" x="0" y="0" width="550" height="720"/>
+	<SubTexture name="DOJ0001" x="0" y="0" width="550" height="720"/>
+	<SubTexture name="DOJ0002" x="550" y="0" width="550" height="720"/>
+	<SubTexture name="DOJ0003" x="550" y="0" width="550" height="720"/>
+	<SubTexture name="DOJ0004" x="1100" y="0" width="550" height="720"/>
+	<SubTexture name="DOJ0005" x="1100" y="0" width="550" height="720"/>
+	<SubTexture name="DOJ0006" x="0" y="720" width="550" height="720"/>
+	<SubTexture name="DOJ0007" x="0" y="720" width="550" height="720"/>
+	<SubTexture name="DOJ0008" x="0" y="720" width="550" height="720"/>
+	<SubTexture name="DOJ0009" x="0" y="720" width="550" height="720"/>
+	<SubTexture name="DOJ0010" x="0" y="720" width="550" height="720"/>
+	<SubTexture name="DOJ0011" x="0" y="720" width="550" height="720"/>
+	<SubTexture name="DOJ0012" x="0" y="720" width="550" height="720"/>
+	<SubTexture name="DOJ0013" x="0" y="720" width="550" height="720"/>
+</TextureAtlas>

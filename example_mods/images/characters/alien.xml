@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alien.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alien down0000" x="0" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0001" x="0" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0002" x="961" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0003" x="961" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0004" x="1922" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0005" x="1922" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0006" x="2883" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0007" x="2883" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0008" x="3844" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0009" x="3844" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0010" x="3844" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0011" x="3844" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0012" x="3844" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0013" x="3844" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0014" x="3844" y="0" width="961" height="720"/>
+	<SubTexture name="alien down0015" x="3844" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0000" x="4805" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0001" x="4805" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0002" x="5766" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0003" x="5766" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0004" x="6727" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0005" x="6727" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0006" x="0" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0007" x="0" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0008" x="961" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0009" x="961" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0010" x="1922" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0011" x="1922" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0012" x="2883" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0013" x="2883" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0014" x="3844" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0015" x="3844" y="720" width="961" height="720"/>
+	<SubTexture name="alien idle0016" x="4805" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0017" x="4805" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0018" x="4805" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0019" x="4805" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0020" x="4805" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0021" x="4805" y="0" width="961" height="720"/>
+	<SubTexture name="alien idle0022" x="4805" y="0" width="961" height="720"/>
+	<SubTexture name="alien left0000" x="4805" y="720" width="961" height="720"/>
+	<SubTexture name="alien left0001" x="4805" y="720" width="961" height="720"/>
+	<SubTexture name="alien left0002" x="5766" y="720" width="961" height="720"/>
+	<SubTexture name="alien left0003" x="5766" y="720" width="961" height="720"/>
+	<SubTexture name="alien left0004" x="6727" y="720" width="961" height="720"/>
+	<SubTexture name="alien left0005" x="6727" y="720" width="961" height="720"/>
+	<SubTexture name="alien left0006" x="0" y="1440" width="961" height="720"/>
+	<SubTexture name="alien left0007" x="0" y="1440" width="961" height="720"/>
+	<SubTexture name="alien left0008" x="961" y="1440" width="961" height="720"/>
+	<SubTexture name="alien left0009" x="961" y="1440" width="961" height="720"/>
+	<SubTexture name="alien left0010" x="961" y="1440" width="961" height="720"/>
+	<SubTexture name="alien left0011" x="961" y="1440" width="961" height="720"/>
+	<SubTexture name="alien left0012" x="961" y="1440" width="961" height="720"/>
+	<SubTexture name="alien left0013" x="961" y="1440" width="961" height="720"/>
+	<SubTexture name="alien left0014" x="961" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0000" x="1922" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0001" x="1922" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0002" x="2883" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0003" x="2883" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0004" x="3844" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0005" x="3844" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0006" x="4805" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0007" x="4805" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0008" x="5766" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0009" x="5766" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0010" x="5766" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0011" x="5766" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0012" x="5766" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0013" x="5766" y="1440" width="961" height="720"/>
+	<SubTexture name="alien right0014" x="5766" y="1440" width="961" height="720"/>
+	<SubTexture name="alien up0000" x="6727" y="1440" width="940" height="720"/>
+	<SubTexture name="alien up0001" x="6727" y="1440" width="940" height="720"/>
+	<SubTexture name="alien up0002" x="0" y="2160" width="940" height="720"/>
+	<SubTexture name="alien up0003" x="0" y="2160" width="940" height="720"/>
+	<SubTexture name="alien up0004" x="940" y="2160" width="940" height="720"/>
+	<SubTexture name="alien up0005" x="940" y="2160" width="940" height="720"/>
+	<SubTexture name="alien up0006" x="1880" y="2160" width="940" height="720"/>
+	<SubTexture name="alien up0007" x="1880" y="2160" width="940" height="720"/>
+	<SubTexture name="alien up0008" x="2820" y="2160" width="940" height="720"/>
+	<SubTexture name="alien up0009" x="2820" y="2160" width="940" height="720"/>
+	<SubTexture name="alien up0010" x="2820" y="2160" width="940" height="720"/>
+	<SubTexture name="alien up0011" x="2820" y="2160" width="940" height="720"/>
+	<SubTexture name="alien up0012" x="2820" y="2160" width="940" height="720"/>
+	<SubTexture name="alien up0013" x="2820" y="2160" width="940" height="720"/>
+	<SubTexture name="dalt0000" x="3760" y="2160" width="1114" height="747"/>
+	<SubTexture name="dalt0001" x="3760" y="2160" width="1114" height="747"/>
+	<SubTexture name="dalt0002" x="4874" y="2160" width="1114" height="747"/>
+	<SubTexture name="dalt0003" x="4874" y="2160" width="1114" height="747"/>
+	<SubTexture name="dalt0004" x="5988" y="2160" width="1114" height="747"/>
+	<SubTexture name="dalt0005" x="5988" y="2160" width="1114" height="747"/>
+	<SubTexture name="dalt0006" x="0" y="2907" width="1114" height="747"/>
+	<SubTexture name="dalt0007" x="0" y="2907" width="1114" height="747"/>
+	<SubTexture name="dalt0008" x="1114" y="2907" width="1114" height="747"/>
+	<SubTexture name="dalt0009" x="1114" y="2907" width="1114" height="747"/>
+	<SubTexture name="dalt0010" x="1114" y="2907" width="1114" height="747"/>
+	<SubTexture name="dalt0011" x="1114" y="2907" width="1114" height="747"/>
+	<SubTexture name="dalt0012" x="1114" y="2907" width="1114" height="747"/>
+	<SubTexture name="dalt0013" x="1114" y="2907" width="1114" height="747"/>
+	<SubTexture name="dalt0014" x="1114" y="2907" width="1114" height="747"/>
+	<SubTexture name="dalt0015" x="1114" y="2907" width="1114" height="747"/>
+	<SubTexture name="lalt0000" x="2228" y="2907" width="1235" height="751"/>
+	<SubTexture name="lalt0001" x="2228" y="2907" width="1235" height="751"/>
+	<SubTexture name="lalt0002" x="3463" y="2907" width="1235" height="751"/>
+	<SubTexture name="lalt0003" x="3463" y="2907" width="1235" height="751"/>
+	<SubTexture name="lalt0004" x="4698" y="2907" width="1235" height="751"/>
+	<SubTexture name="lalt0005" x="4698" y="2907" width="1235" height="751"/>
+	<SubTexture name="lalt0006" x="5933" y="2907" width="1235" height="751"/>
+	<SubTexture name="lalt0007" x="5933" y="2907" width="1235" height="751"/>
+	<SubTexture name="lalt0008" x="0" y="3658" width="1235" height="751"/>
+	<SubTexture name="lalt0009" x="0" y="3658" width="1235" height="751"/>
+	<SubTexture name="lalt0010" x="0" y="3658" width="1235" height="751"/>
+	<SubTexture name="lalt0011" x="0" y="3658" width="1235" height="751"/>
+	<SubTexture name="lalt0012" x="0" y="3658" width="1235" height="751"/>
+	<SubTexture name="lalt0013" x="0" y="3658" width="1235" height="751"/>
+	<SubTexture name="lalt0014" x="0" y="3658" width="1235" height="751"/>
+	<SubTexture name="melt0000" x="4805" y="0" width="961" height="720"/>
+	<SubTexture name="melt0001" x="4805" y="0" width="961" height="720"/>
+	<SubTexture name="melt0002" x="1235" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0003" x="1235" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0004" x="2196" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0005" x="2196" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0006" x="3157" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0007" x="3157" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0008" x="4118" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0009" x="4118" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0010" x="5079" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0011" x="5079" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0012" x="6040" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0013" x="6040" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0014" x="7001" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0015" x="7001" y="3658" width="961" height="744"/>
+	<SubTexture name="melt0016" x="0" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0017" x="0" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0018" x="961" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0019" x="961" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0020" x="1922" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0021" x="1922" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0022" x="2883" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0023" x="2883" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0024" x="3844" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0025" x="3844" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0026" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0027" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0028" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0029" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0030" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0031" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0032" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0033" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0034" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0035" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0036" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0037" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0038" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0039" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0040" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0041" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0042" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0043" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0044" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0045" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0046" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0047" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0048" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0049" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0050" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0051" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0052" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="melt0053" x="4805" y="4409" width="961" height="744"/>
+	<SubTexture name="ralt0000" x="5766" y="4409" width="1249" height="964"/>
+	<SubTexture name="ralt0001" x="5766" y="4409" width="1249" height="964"/>
+	<SubTexture name="ralt0002" x="0" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0003" x="0" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0004" x="1249" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0005" x="1249" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0006" x="2498" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0007" x="2498" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0008" x="3747" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0009" x="3747" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0010" x="3747" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0011" x="3747" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0012" x="3747" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0013" x="3747" y="5373" width="1249" height="964"/>
+	<SubTexture name="ralt0014" x="3747" y="5373" width="1249" height="964"/>
+	<SubTexture name="ualt0000" x="4996" y="5373" width="1249" height="1015"/>
+	<SubTexture name="ualt0001" x="4996" y="5373" width="1249" height="1015"/>
+	<SubTexture name="ualt0002" x="6245" y="5373" width="1249" height="1015"/>
+	<SubTexture name="ualt0003" x="6245" y="5373" width="1249" height="1015"/>
+	<SubTexture name="ualt0004" x="0" y="6388" width="1249" height="1015"/>
+	<SubTexture name="ualt0005" x="0" y="6388" width="1249" height="1015"/>
+	<SubTexture name="ualt0006" x="1249" y="6388" width="1249" height="1015"/>
+	<SubTexture name="ualt0007" x="1249" y="6388" width="1249" height="1015"/>
+	<SubTexture name="ualt0008" x="2498" y="6388" width="1249" height="1015"/>
+	<SubTexture name="ualt0009" x="2498" y="6388" width="1249" height="1015"/>
+	<SubTexture name="ualt0010" x="2498" y="6388" width="1249" height="1015"/>
+	<SubTexture name="ualt0011" x="2498" y="6388" width="1249" height="1015"/>
+	<SubTexture name="ualt0012" x="2498" y="6388" width="1249" height="1015"/>
+	<SubTexture name="ualt0013" x="2498" y="6388" width="1249" height="1015"/>
+</TextureAtlas>

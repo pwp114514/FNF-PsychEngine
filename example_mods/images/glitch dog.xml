@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glitch dog.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="638" height="432"/>
+	<SubTexture name="idle0001" x="0" y="0" width="638" height="432"/>
+	<SubTexture name="idle0002" x="638" y="0" width="602" height="414" frameX="-29" frameY="-6" frameWidth="638" frameHeight="432"/>
+	<SubTexture name="idle0003" x="638" y="0" width="602" height="414" frameX="-29" frameY="-6" frameWidth="638" frameHeight="432"/>
+	<SubTexture name="idle0004" x="1240" y="0" width="572" height="394" frameX="-55" frameY="-14" frameWidth="638" frameHeight="432"/>
+	<SubTexture name="idle0005" x="1240" y="0" width="572" height="394" frameX="-55" frameY="-14" frameWidth="638" frameHeight="432"/>
+	<SubTexture name="idle0006" x="0" y="432" width="544" height="371" frameX="-80" frameY="-20" frameWidth="638" frameHeight="432"/>
+	<SubTexture name="idle0007" x="0" y="432" width="544" height="371" frameX="-80" frameY="-20" frameWidth="638" frameHeight="432"/>
+	<SubTexture name="idle0008" x="544" y="432" width="553" height="387" frameX="-80" frameY="-10" frameWidth="638" frameHeight="432"/>
+	<SubTexture name="idle0009" x="544" y="432" width="553" height="387" frameX="-80" frameY="-10" frameWidth="638" frameHeight="432"/>
+	<SubTexture name="idle0010" x="1097" y="432" width="553" height="387" frameX="-80" frameY="-10" frameWidth="638" frameHeight="432"/>
+	<SubTexture name="idle0011" x="1097" y="432" width="553" height="387" frameX="-80" frameY="-10" frameWidth="638" frameHeight="432"/>
+	<SubTexture name="idle0012" x="0" y="819" width="553" height="387" frameX="-80" frameY="-10" frameWidth="638" frameHeight="432"/>
+	<SubTexture name="idle0013" x="0" y="819" width="553" height="387" frameX="-80" frameY="-10" frameWidth="638" frameHeight="432"/>
+</TextureAtlas>

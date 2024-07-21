@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				79,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "blue up"
+		},
+		{
+			"offsets": [
+				72,
+				-183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "blue right"
+		},
+		{
+			"offsets": [
+				98,
+				-188
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "blue left"
+		},
+		{
+			"offsets": [
+				74,
+				-183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "blue down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				62,
+				-187
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "blue idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blue tom-rtx",
+	"position": [
+		-180,
+		-70
+	],
+	"healthicon": "blue-tom",
+	"flip_x": true,
+	"healthbar_colors": [
+		95,
+		100,
+		140
+	],
+	"camera_position": [
+		-200,
+		180
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1
+}

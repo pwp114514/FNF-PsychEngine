@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				3
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BOI IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-225,
+				-498
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BOI UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-330,
+				-270
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BOI RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-410,
+				-210
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BOI LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-373,
+				-261
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BOI DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MEME MOUSE (2)",
+	"position": [
+		-520,
+		-240
+	],
+	"healthicon": "meme-boi-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		137,
+		0
+	],
+	"camera_position": [
+		260,
+		370
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 0.700000000000004
+}

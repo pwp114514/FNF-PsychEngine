@@ -1,0 +1,7 @@
+Does the shadow thing like Evaporate.
+
+Value 1: 'a' to start, 'b' to undo.
+Value 2: Fade In/Out Time.
+
+Script by Saltyboii#2461
+Edited again by Maxplay Games

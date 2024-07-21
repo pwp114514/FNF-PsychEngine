@@ -1,0 +1,3 @@
+Value 1: 0 = Turn off, 1 = Blue, 2 = Green
+3 = Pink, 4 = Red, 5 = Orange, Anything else = Random
+

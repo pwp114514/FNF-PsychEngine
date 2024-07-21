@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "freeze jerry idle"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "freeze jerry left"
+		},
+		{
+			"offsets": [
+				-10,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "freeze jerry down"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "freeze jerry up"
+		},
+		{
+			"offsets": [
+				90,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "freeze jerry right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/freeze jerry",
+	"position": [
+		-630,
+		-580
+	],
+	"healthicon": "icon-freeze-jerry",
+	"flip_x": true,
+	"healthbar_colors": [
+		109,
+		136,
+		200
+	],
+	"camera_position": [
+		420,
+		390
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

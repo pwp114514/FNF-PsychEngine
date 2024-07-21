@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				21,
+				3
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BOI IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				145,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BOI UP"
+		},
+		{
+			"offsets": [
+				-50,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BOI RIGHT"
+		},
+		{
+			"offsets": [
+				30,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BOI LEFT"
+		},
+		{
+			"offsets": [
+				107,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BOI DOWN"
+		},
+		{
+			"offsets": [
+				22,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pussy cat lol",
+			"indices": [],
+			"name": "pussy cat lol"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dead",
+			"fps": 24,
+			"name": "dead",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MEME MOUSE",
+	"position": [
+		50,
+		-30
+	],
+	"healthicon": "meme-boi",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		137,
+		0
+	],
+	"camera_position": [
+		260,
+		370
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1.2
+}

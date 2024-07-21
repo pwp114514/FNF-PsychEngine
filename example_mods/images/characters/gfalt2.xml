@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="gfalt2.png" width="1200" height="1000">
+  <SubTexture name="idle0000.png" x="0" y="0"  width="277" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0006.png" x="0" y="463"  width="277" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0019.png" x="277" y="0"  width="276" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0017.png" x="277" y="463"  width="275" height="462" frameX="-346" frameY="-23" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0002.png" x="552" y="463"  width="280" height="461" frameX="-346" frameY="-24" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0004.png" x="553" y="0"  width="279" height="461" frameX="-346" frameY="-24" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0015.png" x="832" y="0"  width="275" height="461" frameX="-346" frameY="-24" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0001.png" x="0" y="0"  width="277" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0008.png" x="0" y="0"  width="277" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0009.png" x="0" y="0"  width="277" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0010.png" x="0" y="0"  width="277" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0011.png" x="0" y="0"  width="277" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0012.png" x="0" y="0"  width="277" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0013.png" x="0" y="0"  width="277" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0014.png" x="0" y="0"  width="277" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0003.png" x="552" y="463"  width="280" height="461" frameX="-346" frameY="-24" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0005.png" x="553" y="0"  width="279" height="461" frameX="-346" frameY="-24" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0007.png" x="0" y="463"  width="277" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0016.png" x="832" y="0"  width="275" height="461" frameX="-346" frameY="-24" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0018.png" x="277" y="463"  width="275" height="462" frameX="-346" frameY="-23" frameWidth="960" frameHeight="540"/>
+  <SubTexture name="idle0020.png" x="277" y="0"  width="276" height="463" frameX="-346" frameY="-22" frameWidth="960" frameHeight="540"/>
+</TextureAtlas>

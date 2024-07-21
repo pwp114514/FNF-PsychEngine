@@ -1,0 +1,95 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week3",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"secret-of-nobody",
+			"icon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"love-is-hopeless",
+			"icon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"pibby-corrupted",
+			"icon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"bloody waltz",
+			"icon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"extra",
+			"icon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"covers",
+			"icon",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"old-week",
+			"icon",
+			[
+				255,
+				255,
+				258
+			]
+		],
+		[
+			"unused-songs",
+			"icon",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

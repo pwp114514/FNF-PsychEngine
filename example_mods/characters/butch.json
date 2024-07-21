@@ -1,0 +1,77 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-187
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "butch idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-678,
+				-224
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "butch up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-748,
+				-154
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "butch right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-634,
+				-154
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "butch left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-724,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "butch down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/butch",
+	"position": [
+		-700,
+		-100
+	],
+	"healthicon": "butch",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		70,
+		71
+	],
+	"camera_position": [
+		-740,
+		110
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1.3}

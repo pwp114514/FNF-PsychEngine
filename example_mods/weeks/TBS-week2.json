@@ -1,0 +1,50 @@
+{
+	"storyName": "love is hopeless",
+	"difficulties": "hard",
+	"hideFreeplay": true,
+	"weekBackground": "tom",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"blue",
+			"blue-tom",
+			[
+				66,
+				73,
+				113
+			]
+		],
+		[
+			"tragical-comedy",
+			"blue-tom",
+			[
+				46,
+				53,
+				93
+			]
+		],
+		[
+			"shattered",
+			"blue-tom",
+			[
+				26,
+				33,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

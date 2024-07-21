@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dodge.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dodge0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="dodge0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="dodge0002" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="dodge0003" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="dodge0004" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="dodge0005" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="dodge0006" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="dodge0007" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="dodge0008" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="dodge0009" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="dodge0010" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="dodge0011" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="dodge0012" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="dodge0013" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="dodge0014" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="dodge0015" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="dodge0016" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="dodge0017" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="dodge0018" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="dodge0019" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="dodge0020" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="dodge0021" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="dodge0022" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="dodge0023" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="dodge0024" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="dodge0025" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="dodge0026" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="dodge0027" x="2560" y="2160" width="1280" height="720"/>
+</TextureAtlas>

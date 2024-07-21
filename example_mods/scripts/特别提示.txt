@@ -1,0 +1,5 @@
+﻿freeplay1曲目数为11
+freeplay2曲目数为5
+freeplay3曲目数为3
+其中标注的'So1''So2'等可修改为曲目名称（不要与'song1','song2'弄混，那个不可改）
+以及我目前还没有测试两个freeplay栏在一起会不会冲突的情况，所以可能会有bug(QwQ)

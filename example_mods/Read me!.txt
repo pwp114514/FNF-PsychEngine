@@ -1,0 +1,6 @@
+Please put it in the build that's all.
+Before you going to replace anything, make sure to check if the assets are outdated or not.
+Example: You accidentally replace the V3 sprite with V2.
+Be careful!!
+
+(also delete this text file)

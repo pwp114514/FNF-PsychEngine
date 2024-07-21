@@ -1,0 +1,4 @@
+Low Version
+Flashes Camera
+
+Value 1: speed

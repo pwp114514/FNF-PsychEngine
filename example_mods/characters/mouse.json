@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jerry idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jerry UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jerry RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jerry LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jerry DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				216,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "angry",
+			"loop": false,
+			"name": "jerry angry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jerry-p1",
+	"position": [
+		-80,
+		220
+	],
+	"healthicon": "mouse-p1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		150,
+		51
+	],
+	"camera_position": [
+		-300,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

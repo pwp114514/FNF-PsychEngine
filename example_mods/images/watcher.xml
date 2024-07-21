@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="watcher.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="watcher0000" x="0" y="0" width="812" height="480"/>
+	<SubTexture name="watcher0001" x="0" y="0" width="812" height="480"/>
+	<SubTexture name="watcher0002" x="812" y="0" width="812" height="480"/>
+	<SubTexture name="watcher0003" x="812" y="0" width="812" height="480"/>
+	<SubTexture name="watcher0004" x="0" y="480" width="812" height="480"/>
+	<SubTexture name="watcher0005" x="0" y="480" width="812" height="480"/>
+	<SubTexture name="watcher0006" x="812" y="480" width="812" height="480"/>
+	<SubTexture name="watcher0007" x="812" y="480" width="812" height="480"/>
+	<SubTexture name="watcher0008" x="0" y="960" width="812" height="480"/>
+	<SubTexture name="watcher0009" x="0" y="960" width="812" height="480"/>
+	<SubTexture name="watcher0010" x="0" y="960" width="812" height="480"/>
+	<SubTexture name="watcher0011" x="0" y="960" width="812" height="480"/>
+	<SubTexture name="watcher0012" x="0" y="960" width="812" height="480"/>
+	<SubTexture name="watcher0013" x="0" y="960" width="812" height="480"/>
+	<SubTexture name="watcher0014" x="0" y="960" width="812" height="480"/>
+</TextureAtlas>

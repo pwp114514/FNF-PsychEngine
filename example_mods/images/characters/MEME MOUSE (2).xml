@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MEME MOUSE.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOI DOWN0000" x="0" y="0" width="919" height="914"/>
+	<SubTexture name="BOI DOWN0001" x="919" y="0" width="919" height="805" frameX="0" frameY="0" frameWidth="919" frameHeight="914"/>
+	<SubTexture name="BOI DOWN0002" x="1838" y="0" width="919" height="830" frameX="0" frameY="0" frameWidth="919" frameHeight="914"/>
+	<SubTexture name="BOI DOWN0003" x="2757" y="0" width="919" height="884" frameX="0" frameY="0" frameWidth="919" frameHeight="914"/>
+	<SubTexture name="BOI DOWN0004" x="0" y="914" width="919" height="914"/>
+	<SubTexture name="BOI IDLE0000" x="919" y="914" width="1615" height="1451"/>
+	<SubTexture name="BOI IDLE0001" x="0" y="2365" width="1615" height="1451"/>
+	<SubTexture name="BOI IDLE0002" x="1615" y="2365" width="1615" height="1451"/>
+	<SubTexture name="BOI IDLE0003" x="0" y="3816" width="1615" height="1451"/>
+	<SubTexture name="BOI LEFT0000" x="1615" y="3816" width="696" height="611" frameX="0" frameY="-135" frameWidth="696" frameHeight="882"/>
+	<SubTexture name="BOI LEFT0001" x="2311" y="3816" width="685" height="697" frameX="-6" frameY="-92" frameWidth="696" frameHeight="882"/>
+	<SubTexture name="BOI LEFT0002" x="2996" y="3816" width="674" height="781" frameX="-11" frameY="-50" frameWidth="696" frameHeight="882"/>
+	<SubTexture name="BOI LEFT0003" x="0" y="5267" width="633" height="882" frameX="-32" frameY="0" frameWidth="696" frameHeight="882"/>
+	<SubTexture name="BOI RIGHT0000" x="633" y="5267" width="900" height="834" frameX="-63" frameY="-16" frameWidth="1027" frameHeight="865"/>
+	<SubTexture name="BOI RIGHT0001" x="1533" y="5267" width="915" height="778" frameX="-56" frameY="-44" frameWidth="1027" frameHeight="865"/>
+	<SubTexture name="BOI RIGHT0002" x="2448" y="5267" width="950" height="712" frameX="-38" frameY="-77" frameWidth="1027" frameHeight="865"/>
+	<SubTexture name="BOI RIGHT0003" x="0" y="6149" width="1027" height="656" frameX="0" frameY="-105" frameWidth="1027" frameHeight="865"/>
+	<SubTexture name="BOI RIGHT0004" x="1027" y="6149" width="831" height="865" frameX="-98" frameY="0" frameWidth="1027" frameHeight="865"/>
+	<SubTexture name="BOI UP0000" x="1858" y="6149" width="732" height="774" frameX="-43" frameY="0" frameWidth="818" frameHeight="951"/>
+	<SubTexture name="BOI UP0001" x="2590" y="6149" width="729" height="773" frameX="-45" frameY="0" frameWidth="818" frameHeight="951"/>
+	<SubTexture name="BOI UP0002" x="3319" y="6149" width="727" height="770" frameX="-46" frameY="0" frameWidth="818" frameHeight="951"/>
+	<SubTexture name="BOI UP0003" x="0" y="7014" width="818" height="951"/>
+	<SubTexture name="BOI UP0004" x="0" y="7014" width="818" height="951"/>
+	<SubTexture name="BOI UP0005" x="818" y="7014" width="641" height="510" frameX="-89" frameY="-57" frameWidth="818" frameHeight="951"/>
+	<SubTexture name="BOI UP0006" x="1459" y="7014" width="664" height="492" frameX="-77" frameY="-66" frameWidth="818" frameHeight="951"/>
+</TextureAtlas>

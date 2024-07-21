@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				-116
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "alien cat left"
+		},
+		{
+			"offsets": [
+				-146,
+				-127
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "alien cat down"
+		},
+		{
+			"offsets": [
+				-19,
+				96
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "alien cat up"
+		},
+		{
+			"offsets": [
+				-130,
+				42
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "alien cat right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "alien cat idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alien-cat",
+	"position": [
+		-180,
+		20
+	],
+	"healthicon": "alien-cat",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		62,
+		80
+	],
+	"camera_position": [
+		-220,
+		-250
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

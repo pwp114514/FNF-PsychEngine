@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snowy.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snow0000" x="1302" y="0" width="1191" height="870" frameX="-42" frameY="0" frameWidth="1366" frameHeight="1136"/>
+	<SubTexture name="snow0001" x="1302" y="0" width="1191" height="870" frameX="-42" frameY="0" frameWidth="1366" frameHeight="1136"/>
+	<SubTexture name="snow0002" x="0" y="1117" width="1348" height="837" frameX="-18" frameY="-30" frameWidth="1366" frameHeight="1136"/>
+	<SubTexture name="snow0003" x="0" y="1117" width="1348" height="837" frameX="-18" frameY="-30" frameWidth="1366" frameHeight="1136"/>
+	<SubTexture name="snow0004" x="1348" y="870" width="1194" height="831" frameX="-31" frameY="-88" frameWidth="1366" frameHeight="1136"/>
+	<SubTexture name="snow0005" x="1348" y="870" width="1194" height="831" frameX="-31" frameY="-88" frameWidth="1366" frameHeight="1136"/>
+	<SubTexture name="snow0006" x="0" y="0" width="1302" height="1117" frameX="0" frameY="-19" frameWidth="1366" frameHeight="1136"/>
+	<SubTexture name="snow0007" x="0" y="0" width="1302" height="1117" frameX="0" frameY="-19" frameWidth="1366" frameHeight="1136"/>
+</TextureAtlas>

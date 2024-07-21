@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				76,
+				-179
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				62,
+				-184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				58,
+				-186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				72,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-187
+			],
+			"anim": "gun",
+			"fps": 26,
+			"name": "gun",
+			"indices": []
+		},
+		{
+			"offsets": [
+				62,
+				-187
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dro",
+	"position": [
+		-180,
+		-180
+	],
+	"healthicon": "dro",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		233,
+		233
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1
+}

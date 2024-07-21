@@ -1,0 +1,2 @@
+If V1 == Fade then the hud fades
+If V1 == FadeBack then hud fade back

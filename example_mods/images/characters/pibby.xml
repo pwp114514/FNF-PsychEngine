@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pibby.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pibby cry0000" x="0" y="0" width="1069" height="720"/>
+	<SubTexture name="pibby idle0000" x="1069" y="0" width="423" height="549"/>
+	<SubTexture name="pibby idle0001" x="1069" y="0" width="423" height="549"/>
+	<SubTexture name="pibby idle0002" x="1492" y="0" width="423" height="549"/>
+	<SubTexture name="pibby idle0003" x="1492" y="0" width="423" height="549"/>
+	<SubTexture name="pibby idle0004" x="0" y="720" width="423" height="549"/>
+	<SubTexture name="pibby idle0005" x="0" y="720" width="423" height="549"/>
+	<SubTexture name="pibby idle0006" x="423" y="720" width="423" height="549"/>
+	<SubTexture name="pibby idle0007" x="423" y="720" width="423" height="549"/>
+	<SubTexture name="pibby idle0008" x="423" y="720" width="423" height="549"/>
+	<SubTexture name="pibby idle0009" x="423" y="720" width="423" height="549"/>
+	<SubTexture name="pibby idle0010" x="423" y="720" width="423" height="549"/>
+	<SubTexture name="pibby idle0011" x="423" y="720" width="423" height="549"/>
+	<SubTexture name="pibby idle0012" x="423" y="720" width="423" height="549"/>
+	<SubTexture name="pibby idle0013" x="423" y="720" width="423" height="549"/>
+	<SubTexture name="pibby idle0014" x="423" y="720" width="423" height="549"/>
+</TextureAtlas>

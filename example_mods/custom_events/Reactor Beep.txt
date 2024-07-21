@@ -1,0 +1,8 @@
+value 1 = alpha,layer
+value 2 = speed,frequencyBeat,beatPercent
+
+Put 0 on any values to disable.
+
+I don't know how do explain the beat actions,
+i think you just need to see the code to
+know.

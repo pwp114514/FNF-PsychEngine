@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				21,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "alien idle"
+		},
+		{
+			"offsets": [
+				15,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "alien up"
+		},
+		{
+			"offsets": [
+				24,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "alien right"
+		},
+		{
+			"offsets": [
+				15,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bye lol",
+			"loop": false,
+			"name": "melt"
+		},
+		{
+			"offsets": [
+				9,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "alien left"
+		},
+		{
+			"offsets": [
+				23,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "alien down"
+		},
+		{
+			"offsets": [
+				260,
+				270
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "ualt"
+		},
+		{
+			"offsets": [
+				160,
+				26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "dalt"
+		},
+		{
+			"offsets": [
+				260,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "lalt"
+		},
+		{
+			"offsets": [
+				140,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "ralt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alien",
+	"position": [
+		-130,
+		120
+	],
+	"healthicon": "alien-mouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		170,
+		111
+	],
+	"camera_position": [
+		-180,
+		100
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 0.899999999999999
+}

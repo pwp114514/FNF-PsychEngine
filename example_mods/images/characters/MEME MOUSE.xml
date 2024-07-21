@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MEME MOUSE.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOI DOWN0000" x="0" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0001" x="0" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0002" x="1274" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0003" x="1274" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0004" x="2548" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0005" x="2548" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0006" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0007" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0008" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0009" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0010" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0011" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0012" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI DOWN0013" x="3822" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0000" x="5096" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0001" x="5096" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0002" x="6370" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0003" x="6370" y="0" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0004" x="0" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0005" x="0" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0006" x="1274" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0007" x="1274" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0008" x="2548" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0009" x="2548" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0010" x="2548" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0011" x="2548" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0012" x="2548" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0013" x="2548" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0014" x="2548" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI IDLE0015" x="2548" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0000" x="3822" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0001" x="3822" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0002" x="5096" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0003" x="5096" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0004" x="6370" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0005" x="6370" y="720" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0006" x="0" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0007" x="0" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0008" x="0" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0009" x="0" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0010" x="0" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0011" x="0" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI LEFT0012" x="0" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0000" x="1274" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0001" x="1274" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0002" x="2548" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0003" x="2548" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0004" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0005" x="3822" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0006" x="5096" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0007" x="5096" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0008" x="5096" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0009" x="5096" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0010" x="5096" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0011" x="5096" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0012" x="5096" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI RIGHT0013" x="5096" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI UP0000" x="6370" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI UP0001" x="6370" y="1440" width="1274" height="720"/>
+	<SubTexture name="BOI UP0002" x="0" y="2160" width="1274" height="720"/>
+	<SubTexture name="BOI UP0003" x="0" y="2160" width="1274" height="720"/>
+	<SubTexture name="BOI UP0004" x="1274" y="2160" width="1274" height="720"/>
+	<SubTexture name="BOI UP0005" x="1274" y="2160" width="1274" height="720"/>
+	<SubTexture name="BOI UP0006" x="2548" y="2160" width="1274" height="720"/>
+	<SubTexture name="BOI UP0007" x="2548" y="2160" width="1274" height="720"/>
+	<SubTexture name="BOI UP0008" x="2548" y="2160" width="1274" height="720"/>
+	<SubTexture name="BOI UP0009" x="2548" y="2160" width="1274" height="720"/>
+	<SubTexture name="BOI UP0010" x="2548" y="2160" width="1274" height="720"/>
+	<SubTexture name="BOI UP0011" x="2548" y="2160" width="1274" height="720"/>
+	<SubTexture name="BOI UP0012" x="2548" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0000" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0001" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0002" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0003" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0004" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0005" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0006" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0007" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0008" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0009" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0010" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0011" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0012" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0013" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0014" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0015" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0016" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0017" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0018" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0019" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0020" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0021" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0022" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="dead0023" x="3822" y="2160" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0000" x="5096" y="2160" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0001" x="5096" y="2160" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0002" x="6370" y="2160" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0003" x="6370" y="2160" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0004" x="0" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0005" x="0" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0006" x="1274" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0007" x="1274" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0008" x="2548" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0009" x="2548" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0010" x="1274" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0011" x="1274" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0012" x="0" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0013" x="0" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0014" x="3822" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0015" x="3822" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0016" x="5096" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0017" x="5096" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0018" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0019" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0020" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0021" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0022" x="5096" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0023" x="5096" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0024" x="3822" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0025" x="3822" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0026" x="0" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0027" x="0" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0028" x="1274" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0029" x="1274" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0030" x="2548" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0031" x="2548" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0032" x="3822" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0033" x="3822" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0034" x="5096" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0035" x="5096" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0036" x="0" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0037" x="0" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0038" x="1274" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0039" x="1274" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0040" x="2548" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0041" x="2548" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0042" x="3822" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0043" x="3822" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0044" x="5096" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0045" x="5096" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0046" x="0" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0047" x="0" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0048" x="3822" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0049" x="3822" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0050" x="5096" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0051" x="5096" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0052" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0053" x="6370" y="2880" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0054" x="0" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0055" x="0" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0056" x="6370" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0057" x="6370" y="3600" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0058" x="0" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0059" x="0" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0060" x="1274" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0061" x="1274" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0062" x="2548" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0063" x="2548" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0064" x="3822" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0065" x="3822" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0066" x="5096" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0067" x="5096" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0068" x="6370" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0069" x="6370" y="4320" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0070" x="0" y="5040" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0071" x="0" y="5040" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0072" x="0" y="5040" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0073" x="0" y="5040" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0074" x="0" y="5040" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0075" x="0" y="5040" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0076" x="0" y="5040" width="1274" height="720"/>
+	<SubTexture name="pussy cat lol0077" x="0" y="5040" width="1274" height="720"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+value 1:x or y
+
+value 2:position,sencond(s) later,"quadInout"
+such as:555,1,"quadInout"
+
+also the OG x and y are:315,180

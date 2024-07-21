@@ -1,0 +1,4 @@
+no flash version
+
+Value 1: beginning position
+to unactivate it just leave the value blank

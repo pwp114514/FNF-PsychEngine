@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="butch.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="butch down0000" x="0" y="0" width="600" height="800"/>
+	<SubTexture name="butch down0001" x="0" y="0" width="600" height="800"/>
+	<SubTexture name="butch down0002" x="600" y="0" width="600" height="800"/>
+	<SubTexture name="butch down0003" x="600" y="0" width="600" height="800"/>
+	<SubTexture name="butch down0004" x="1200" y="0" width="600" height="800"/>
+	<SubTexture name="butch down0005" x="1200" y="0" width="600" height="800"/>
+	<SubTexture name="butch down0006" x="1200" y="0" width="600" height="800"/>
+	<SubTexture name="butch down0007" x="1200" y="0" width="600" height="800"/>
+	<SubTexture name="butch down0008" x="1200" y="0" width="600" height="800"/>
+	<SubTexture name="butch down0009" x="1200" y="0" width="600" height="800"/>
+	<SubTexture name="butch idle0000" x="1800" y="0" width="1286" height="720"/>
+	<SubTexture name="butch idle0001" x="1800" y="0" width="1286" height="720"/>
+	<SubTexture name="butch idle0002" x="0" y="800" width="1286" height="720"/>
+	<SubTexture name="butch idle0003" x="0" y="800" width="1286" height="720"/>
+	<SubTexture name="butch idle0004" x="1286" y="800" width="1286" height="720"/>
+	<SubTexture name="butch idle0005" x="1286" y="800" width="1286" height="720"/>
+	<SubTexture name="butch idle0006" x="2572" y="800" width="1286" height="720"/>
+	<SubTexture name="butch idle0007" x="2572" y="800" width="1286" height="720"/>
+	<SubTexture name="butch idle0008" x="0" y="1520" width="1286" height="720"/>
+	<SubTexture name="butch idle0009" x="0" y="1520" width="1286" height="720"/>
+	<SubTexture name="butch idle0010" x="0" y="1520" width="1286" height="720"/>
+	<SubTexture name="butch idle0011" x="0" y="1520" width="1286" height="720"/>
+	<SubTexture name="butch idle0012" x="0" y="1520" width="1286" height="720"/>
+	<SubTexture name="butch idle0013" x="0" y="1520" width="1286" height="720"/>
+	<SubTexture name="butch idle0014" x="0" y="1520" width="1286" height="720"/>
+	<SubTexture name="butch left0000" x="1286" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0001" x="1286" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0002" x="1882" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0003" x="1882" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0004" x="2478" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0005" x="2478" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0006" x="3074" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0007" x="3074" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0008" x="3074" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0009" x="3074" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0010" x="3074" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0011" x="3074" y="1520" width="596" height="794"/>
+	<SubTexture name="butch left0012" x="3074" y="1520" width="596" height="794"/>
+	<SubTexture name="butch right0000" x="0" y="2314" width="615" height="820"/>
+	<SubTexture name="butch right0001" x="0" y="2314" width="615" height="820"/>
+	<SubTexture name="butch right0002" x="615" y="2314" width="615" height="820"/>
+	<SubTexture name="butch right0003" x="615" y="2314" width="615" height="820"/>
+	<SubTexture name="butch right0004" x="1230" y="2314" width="615" height="820"/>
+	<SubTexture name="butch right0005" x="1230" y="2314" width="615" height="820"/>
+	<SubTexture name="butch right0006" x="1230" y="2314" width="615" height="820"/>
+	<SubTexture name="butch right0007" x="1230" y="2314" width="615" height="820"/>
+	<SubTexture name="butch right0008" x="1230" y="2314" width="615" height="820"/>
+	<SubTexture name="butch right0009" x="1230" y="2314" width="615" height="820"/>
+	<SubTexture name="butch up0000" x="1845" y="2314" width="540" height="720"/>
+	<SubTexture name="butch up0001" x="1845" y="2314" width="540" height="720"/>
+	<SubTexture name="butch up0002" x="2385" y="2314" width="540" height="720"/>
+	<SubTexture name="butch up0003" x="2385" y="2314" width="540" height="720"/>
+	<SubTexture name="butch up0004" x="2925" y="2314" width="540" height="720"/>
+	<SubTexture name="butch up0005" x="2925" y="2314" width="540" height="720"/>
+	<SubTexture name="butch up0006" x="3465" y="2314" width="540" height="720"/>
+	<SubTexture name="butch up0007" x="3465" y="2314" width="540" height="720"/>
+	<SubTexture name="butch up0008" x="3465" y="2314" width="540" height="720"/>
+	<SubTexture name="butch up0009" x="3465" y="2314" width="540" height="720"/>
+	<SubTexture name="butch up0010" x="3465" y="2314" width="540" height="720"/>
+	<SubTexture name="butch up0011" x="3465" y="2314" width="540" height="720"/>
+</TextureAtlas>

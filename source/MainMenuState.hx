@@ -1,6 +1,6 @@
 package;
 
-#if desktop
+#if DISCORD_ALLOWED
 import Discord.DiscordClient;
 #end
 import flixel.FlxG;
@@ -25,7 +25,7 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '0.6.2'; //This is also used for Discord RPC
+	public static var psychEngineVersion:String = '0.6.3'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
@@ -35,14 +35,11 @@ class MainMenuState extends MusicBeatState
 	var optionShit:Array<String> = [
 		'story_mode',
 		'freeplay',
-		#if MODS_ALLOWED 'mods', #end
-		#if ACHIEVEMENTS_ALLOWED 'awards', #end
 		'credits',
-		#if !switch 'donate', #end
 		'options'
 	];
 
-	var magenta:FlxSprite;
+	var char:FlxSprite;
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
 	var debugKeys:Array<FlxKey>;
@@ -54,7 +51,7 @@ class MainMenuState extends MusicBeatState
 		#end
 		WeekData.loadTheFirstEnabledMod();
 
-		#if desktop
+		#if DISCORD_ALLOWED
 		// Updating Discord Rich Presence
 		DiscordClient.changePresence("In the Menus", null);
 		#end
@@ -74,8 +71,8 @@ class MainMenuState extends MusicBeatState
 		persistentUpdate = persistentDraw = true;
 
 		var yScroll:Float = Math.max(0.25 - (0.05 * (optionShit.length - 4)), 0.1);
-		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('menuBG'));
-		bg.scrollFactor.set(0, yScroll);
+		var bg:FlxSprite = new FlxSprite(0).loadGraphic(Paths.image('menuBG'));
+		bg.scrollFactor.set(1, 1);
 		bg.setGraphicSize(Std.int(bg.width * 1.175));
 		bg.updateHitbox();
 		bg.screenCenter();
@@ -87,42 +84,38 @@ class MainMenuState extends MusicBeatState
 		add(camFollow);
 		add(camFollowPos);
 
-		magenta = new FlxSprite(-80).loadGraphic(Paths.image('menuDesat'));
-		magenta.scrollFactor.set(0, yScroll);
-		magenta.setGraphicSize(Std.int(magenta.width * 1.175));
-		magenta.updateHitbox();
-		magenta.screenCenter();
-		magenta.visible = false;
-		magenta.antialiasing = ClientPrefs.globalAntialiasing;
-		magenta.color = 0xFFfd719b;
-		add(magenta);
 		
-		// magenta.scrollFactor.set();
+		char = new FlxSprite(600,200);
+		char.frames = Paths.getSparrowAtlas('mainmenu/' + optionShit[1]);
+		char.animation.addByPrefix('idle', optionShit[1], 24);
+		char.animation.play('idle');
+		char.antialiasing = ClientPrefs.globalAntialiasing;
+		add(char);
+
 
 		menuItems = new FlxTypedGroup<FlxSprite>();
 		add(menuItems);
 
-		var scale:Float = 1;
+		var scale:Float = 0.6;
 		/*if(optionShit.length > 6) {
 			scale = 6 / optionShit.length;
 		}*/
 
 		for (i in 0...optionShit.length)
 		{
-			var offset:Float = 108 - (Math.max(optionShit.length, 4) - 4) * 80;
-			var menuItem:FlxSprite = new FlxSprite(0, (i * 140)  + offset);
+			var menuItem:FlxSprite = new FlxSprite(125, (i * 150)+100);
 			menuItem.scale.x = scale;
 			menuItem.scale.y = scale;
+			if (optionShit[i]=="story_mode") {
+				menuItem.x = 145;
+			}
 			menuItem.frames = Paths.getSparrowAtlas('mainmenu/menu_' + optionShit[i]);
 			menuItem.animation.addByPrefix('idle', optionShit[i] + " basic", 24);
 			menuItem.animation.addByPrefix('selected', optionShit[i] + " white", 24);
 			menuItem.animation.play('idle');
 			menuItem.ID = i;
-			menuItem.screenCenter(X);
+			menuItem.scrollFactor.set(1, 1);
 			menuItems.add(menuItem);
-			var scr:Float = (optionShit.length - 4) * 0.135;
-			if(optionShit.length < 6) scr = 0;
-			menuItem.scrollFactor.set(0, scr);
 			menuItem.antialiasing = ClientPrefs.globalAntialiasing;
 			//menuItem.setGraphicSize(Std.int(menuItem.width * 0.58));
 			menuItem.updateHitbox();
@@ -156,6 +149,8 @@ class MainMenuState extends MusicBeatState
 		}
 		#end
 
+		addVirtualPad(UP_DOWN, A_B_E);
+
 		super.create();
 	}
 
@@ -179,7 +174,7 @@ class MainMenuState extends MusicBeatState
 		}
 
 		var lerpVal:Float = CoolUtil.boundTo(elapsed * 7.5, 0, 1);
-		camFollowPos.setPosition(FlxMath.lerp(camFollowPos.x, camFollow.x, lerpVal), FlxMath.lerp(camFollowPos.y, camFollow.y, lerpVal));
+		camFollowPos.setPosition(640, 360);
 
 		if (!selectedSomethin)
 		{
@@ -212,8 +207,6 @@ class MainMenuState extends MusicBeatState
 				{
 					selectedSomethin = true;
 					FlxG.sound.play(Paths.sound('confirmMenu'));
-
-					if(ClientPrefs.flashing) FlxFlicker.flicker(magenta, 1.1, 0.15, false);
 
 					menuItems.forEach(function(spr:FlxSprite)
 					{
@@ -255,21 +248,15 @@ class MainMenuState extends MusicBeatState
 					});
 				}
 			}
-			#if desktop
-			else if (FlxG.keys.anyJustPressed(debugKeys))
+			else if (virtualPad.buttonE.justPressed || FlxG.keys.anyJustPressed(debugKeys))
 			{
 				selectedSomethin = true;
 				MusicBeatState.switchState(new MasterEditorMenu());
 			}
-			#end
 		}
 
 		super.update(elapsed);
 
-		menuItems.forEach(function(spr:FlxSprite)
-		{
-			spr.screenCenter(X);
-		});
 	}
 
 	function changeItem(huh:Int = 0)
@@ -280,6 +267,35 @@ class MainMenuState extends MusicBeatState
 			curSelected = 0;
 		if (curSelected < 0)
 			curSelected = menuItems.length - 1;
+		
+		if (optionShit[curSelected]=="story_mode") {
+			char.frames = Paths.getSparrowAtlas('mainmenu/storymode');
+			char.animation.addByPrefix('idle', 'storymode' , 24);
+			char.animation.play('idle');
+		} else {
+			char.frames = Paths.getSparrowAtlas('mainmenu/' + optionShit[curSelected]);
+			char.animation.addByPrefix('idle', optionShit[curSelected] , 24);
+			char.animation.play('idle');
+		}
+
+		switch(optionShit[curSelected]) {
+			case 'story_mode':
+				char.x=700;
+				char.y=20;
+			case "freeplay":
+				char.x=740;
+				char.y=250;
+			case 'credits':
+				char.x=640;
+				char.y=180;
+			case "options":
+				char.x=650;
+				char.y=280;
+			case _:
+				char.x=600;
+				char.y=200;
+		}
+
 
 		menuItems.forEach(function(spr:FlxSprite)
 		{
@@ -293,7 +309,6 @@ class MainMenuState extends MusicBeatState
 				if(menuItems.length > 4) {
 					add = menuItems.length * 8;
 				}
-				camFollow.setPosition(spr.getGraphicMidpoint().x, spr.getGraphicMidpoint().y - add);
 				spr.centerOffsets();
 			}
 		});

@@ -8,6 +8,7 @@ import openfl.Assets;
 import openfl.Lib;
 import openfl.display.FPS;
 import openfl.display.Sprite;
+import lime.system.System;
 import openfl.events.Event;
 import openfl.display.StageScaleMode;
 import lime.app.Application;

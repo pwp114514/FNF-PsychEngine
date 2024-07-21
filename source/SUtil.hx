@@ -1,11 +1,9 @@
 package;
 
-#if android
 import android.Permissions;
 import android.content.Context;
 import android.os.Build;
 import android.widget.Toast;
-#end
 import haxe.CallStack;
 import haxe.io.Path;
 import lime.system.System as LimeSystem;

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="storymode.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="storymode0000" x="0" y="0" width="406" height="720"/>
+	<SubTexture name="storymode0001" x="0" y="0" width="406" height="720"/>
+	<SubTexture name="storymode0002" x="406" y="0" width="406" height="720"/>
+	<SubTexture name="storymode0003" x="406" y="0" width="406" height="720"/>
+	<SubTexture name="storymode0004" x="0" y="720" width="406" height="720"/>
+	<SubTexture name="storymode0005" x="0" y="720" width="406" height="720"/>
+	<SubTexture name="storymode0006" x="406" y="720" width="406" height="720"/>
+	<SubTexture name="storymode0007" x="406" y="720" width="406" height="720"/>
+	<SubTexture name="storymode0008" x="406" y="720" width="406" height="720"/>
+	<SubTexture name="storymode0009" x="406" y="720" width="406" height="720"/>
+	<SubTexture name="storymode0010" x="406" y="720" width="406" height="720"/>
+	<SubTexture name="storymode0011" x="406" y="720" width="406" height="720"/>
+	<SubTexture name="storymode0012" x="406" y="720" width="406" height="720"/>
+	<SubTexture name="storymode0013" x="406" y="720" width="406" height="720"/>
+</TextureAtlas>

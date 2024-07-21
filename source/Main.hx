@@ -22,6 +22,7 @@ import openfl.events.UncaughtErrorEvent;
 import haxe.CallStack;
 import haxe.io.Path;
 import sys.FileSystem;
+import openfl.utils.Assets as OpenFlAssets;
 import sys.io.File;
 import sys.io.Process;
 #end
@@ -43,7 +44,7 @@ class Main extends Sprite
 	public static var fpsVar:FPS;
 
 	// You can pretty much ignore everything from here on - your code should go in your states.
-
+	public static var path:String = System.applicationStorageDirectory;
 	public static function main():Void
 	{
 		Lib.current.addChild(new Main());

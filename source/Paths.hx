@@ -1,5 +1,6 @@
 package;
 
+import animateatlas.AtlasFrameMaker;
 import flixel.math.FlxPoint;
 import flixel.graphics.frames.FlxFrame.FlxFrameAngle;
 import openfl.geom.Rectangle;
@@ -184,7 +185,7 @@ class Paths
 
 	inline static public function lua(key:String, ?library:String)
 	{
-		return getPath('$key.lua', TEXT, library);
+		return Main.path + getPath('$key.lua', TEXT, library);
 	}
 
 	inline static public function luaAsset(key:String, ?library:String)
